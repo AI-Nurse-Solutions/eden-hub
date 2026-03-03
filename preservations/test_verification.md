@@ -1,0 +1,1 @@
+This is a test preservation save from the Gravity Claw air-gapped terminal to verify the GitHub pipeline.
